@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github.com/AogirisJef/AogirisJef/blob/main/74635989b770a38189fff31a8ef152ea.gif"/>
+  <img src="https://github.com/AogirisJef/AogirisJef/blob/main/Assets/74635989b770a38189fff31a8ef152ea.gif"/>
 </div>
 
 ###
@@ -27,7 +27,7 @@
 ###
 
 <p align="center">
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
+ <img width="600" src="https://github.com/AogirisJef/AogirisJef/blob/main/Assets/github-snake.svg" alt="snake"/>
 </p>
 
 ###
