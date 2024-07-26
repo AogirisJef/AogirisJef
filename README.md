@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">Я начинающий Frontend разработчик. Мой путь в it начался с идеи создать читалку для манг😝. Попробовав себя в Python и C#, я понял что мне ближе Frontend чем Backend. С июня 2024 года по июль включительно 2024 я изучал Frontend разработку на курсах от Александра Ламкова, параллельно проходил курс от Sololearn по HTML, CSS, JS, а также изучал "Современный учебник по JS". В настоящий момент мое обучение на курсе по HTML и CSS от Александра Ламкова завершено, я получил сертификат о прохождении курсов основ HTML и CSS от Sololearn, и в данный момент активно изучаю JS, практикуюсь с препроцессором SCSS и пытаюсь освоить базу REACT! А также работу с Git и Github^^</p>
+<p align="left">Я начинающий Frontend разработчик. Мой путь в it начался с идеи создать читалку для манг😝. Попробовав себя в Python и C#, я понял что мне ближе Frontend чем Backend. С июня 2024 года по июль включительно 2024 я изучал Frontend разработку на курсах от Александра Ламкова, параллельно проходил курс от Sololearn по HTML, CSS, JS, а также изучал "Современный учебник по JS". В настоящий момент мое обучение на курсе по HTML и CSS от Александра Ламкова завершено, я получил сертификат о прохождении курсов основ HTML и CSS от Sololearn, и в данный момент активно изучаю JS, практикуюсь с препроцессором SCSS, Webpack и пытаюсь освоить базу REACT! А также работу с Git и Github^^</p>
 
 ###
 
@@ -44,6 +44,13 @@
   <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
   <a href="https://www.adobe.com/in/products/premiere.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobepremierepro.png" alt="Premiere Pro" height="50" /></a> 
   <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /></a>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="40" alt="webpack logo"  />
 </div>
 
 ###
